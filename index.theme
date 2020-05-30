@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Ambiance-10.04
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Ambiant-MATE-orange
+MetacityTheme=Ambiance-Classic
+IconTheme=ubuntu-mono-dark
+GtkColorScheme=base_color:#ffffff,fg_color:#4c4c4c,tooltip_fg_color:#ebebeb,selected_bg_color:#87A752,selected_fg_color:#FFFFFF,text_color:#3C3C3C,bg_color:#F2F1F0,tooltip_bg_color:#1e1e1e,link_color:#A7BB85
+CursorTheme=mate
+CursorSize=24
+BackgroundImage=/home/nnonym/Загрузки/12d2dff9f988a64f18fdec3d86c65dd1.jpg
